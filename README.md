@@ -15,5 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=desillusion&theme=nord&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desillusion&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
+    </td>
+  </tr>
+</table>
+
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=desillusion&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=desillusion&limit=5&theme=dark&combine_all_yearly_contributions=true&count_private=true)

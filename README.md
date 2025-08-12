@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=desillusion&limit=5&theme=dark&combine_all_yearly_contributions=true)

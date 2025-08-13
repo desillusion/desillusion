@@ -24,6 +24,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
           repositories_affiliations: owner,organization_member
+          commits_authoring: ${{ secrets.EMAILS }}
 
           # Options
           template: classic
